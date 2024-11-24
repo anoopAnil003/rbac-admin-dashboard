@@ -2,28 +2,28 @@ This project is a React.js web application designed for managing users, roles, a
 
 # Features
  ## User Management
--> View all users in a data table.
--> Add new users with validation for required fields.
--> Edit existing user details.
--> Delete users.
--> Search users dynamically with a search bar.
--> Status toggle (Active/Inactive) for users.
+-> View all users in a data table. \
+-> Add new users with validation for required fields. \
+-> Edit existing user details. \
+-> Delete users.\
+-> Search users dynamically with a search bar.\
+-> Status toggle (Active/Inactive) for users.\
 
 ## Role Management
-->View all roles in a data table.
-->Add new roles with dynamic permissions assignment.
-->Edit roles and their associated permissions.
-->Delete roles.
-->Dynamic permissions display for clarity.
+->View all roles in a data table.\
+->Add new roles with dynamic permissions assignment.\
+->Edit roles and their associated permissions.\
+->Delete roles.\
+->Dynamic permissions display for clarity.\
 ## Permissions Management
-->Define permissions for roles, including Read, Write, Delete, and Update.
-->Modify permissions dynamically in a user-friendly modal.
+->Define permissions for roles, including Read, Write, Delete, and Update.\
+->Modify permissions dynamically in a user-friendly modal.\
 ## Technologies Used
 ->React.js: Frontend framework.
-->Material-UI (MUI): UI components for styling and responsive design.
-->React-Icons: Icon library for consistent and modern icons.
-->React Data Grid: For table displays with advanced features.
-->Mock API: Simulated API calls for CRUD operations.
+->Material-UI (MUI): UI components for styling and responsive design.\
+->React-Icons: Icon library for consistent and modern icons.\
+->React Data Grid: For table displays with advanced features.\
+->Mock API: Simulated API calls for CRUD operations.\
 
 
 
